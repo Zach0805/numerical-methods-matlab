@@ -83,4 +83,4 @@ PDFs are included for viewing without a MATLAB license:
 ---
 
 ## Author
-Zachary Van Horn — Mechanical Engineering, Arizona State University
+Zachary Van Horn — Mechanical Engineering Student
